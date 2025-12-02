@@ -9,7 +9,7 @@ El sistema soporta dos modos de operación:
 * **Modo Alámbrico:** Comunicación Serial (USB) de baja latencia.
 
 * **Modo Inalámbrico:** Comunicación vía WiFi (Protocolo UDP).
-* 
+  
 ## Hardware Necesario
 * Microcontrolador: ESP32 (DevKit V1/V4 recomendado).
 
