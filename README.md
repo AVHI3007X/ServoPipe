@@ -2,6 +2,10 @@
 
 ## Control de Servos con Visión Artificial (ESP32 + MediaPipe)
 
+![License](https://img.shields.io/badge/License-GPLv3-blue.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue)
+![Platform](https://img.shields.io/badge/platform-ESP32-orange)
+
 Este proyecto implementa un sistema de control gestual para manos robóticas o mecanismos articulados. Utiliza Python (MediaPipe) para detectar gestos de la mano a través de una webcam y envía comandos a un microcontrolador ESP32, el cual controla múltiples servomotores.
 
 El sistema soporta dos modos de operación:
@@ -587,4 +591,12 @@ Cada servo cumple una función mecánica específica dentro de la estructura de 
 * Pausa (Puño Cerrado ): Al cerrar el puño, los motores se frenan en su posición exacta actual. Esto es ideal para mantener el objeto suspendido en el aire mientras se mueve la base.
 
 * Reincio (Meñique): Al levantar solo el meñique, la grúa vuelve automáticamente a su posición central (90°), alineando la base y soltando la carga por seguridad.
+
+---
+## 📄 Licencia y Autor
+
+Este proyecto ha sido creado por **Jason Caballero (whoamijas0n)**.
+
+Distribuido bajo la licencia **GNU General Public License v3.0**.  
+Consulta el archivo `LICENSE` para más detalles.
 
