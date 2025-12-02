@@ -563,7 +563,7 @@ cv2.destroyAllWindows()
 Este firmware está diseñado para controlar una Grúa Robótica de 3 Ejes. La lógica de control gestual permite operar la maquinaria de forma intuitiva sin tocar ningún controlador físico.
 
 <p align="center">
-  <img src="img/grua.jpeg" alt="Imagen de ejemplo, una grua robotica" width="450">
+  <img src="img/grua.jpeg" alt="Imagen de ejemplo, una grua robotica" width="650">
 </p>
 
 ## Mapeo de Movimientos
