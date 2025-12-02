@@ -588,7 +588,6 @@ Cada servo cumple una función mecánica específica dentro de la estructura de 
 
 * Reincio (Meñique): Al levantar solo el meñique, la grúa vuelve automáticamente a su posición central (90°), alineando la base y soltando la carga por seguridad.
 
----
 ## Licencia y Autor
 
 Este proyecto ha sido creado por **Jason Caballero (whoamijas0n)**.
